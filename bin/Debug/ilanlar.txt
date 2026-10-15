@@ -1,0 +1,6 @@
+Emlak Tipi | Satılık/Kiralık | Eklenme Tarihi | Takas Durumu | Açıklama
+-------------------------------------------------------------
+Örnek: Daire | Satılık | 01.01.2024 | Takasa Uygun | 3+1, deniz manzaralı
+-------------------------------------------------------------
+Yeni ilan eklemek için 'İlan Ekle' butonuna tıklayın.
+-------------------------------------------------------------
